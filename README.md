@@ -1,6 +1,8 @@
 # powershell365
 365 (one per day) tips to learn Powershell [#365daysofpowershell](https://twitter.com/search?q=365daysofpowershell) [#powershell365](https://twitter.com/search?q=powershell365)
 
+![ps-version](https://github.com/edoardottt/images/blob/main/powershell365/ps-version.svg)
+
 | Day | Topic | Description | Script | Tweet |
 | ----------- | -------- | ----------- | -------- | --------- |
 | 1 | Documentation | [How to use the PowerShell documentation](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.1) | x | [link](https://twitter.com/edoardottt2/status/1430935729346056197) |
