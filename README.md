@@ -3,7 +3,7 @@
 
 | Day | Topic | Description | Script | Tweet |
 | ----------- | -------- | ----------- | -------- | --------- |
-| 1 | Documentation | [How to use the PowerShell documentation](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.1) | x | link |
+| 1 | Documentation | [How to use the PowerShell documentation](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.1) | x | [link](https://twitter.com/edoardottt2/status/1430935729346056197) |
 
 Contributing 🛠
 -------
