@@ -1,6 +1,11 @@
 # powershell365
 365 (one per day) tips to learn Powershell
 
+Contributing 🛠
+-------
+
+Just open an [issue](https://github.com/edoardottt/powershell365/issues) / [pull request](https://github.com/edoardottt/powershell365/pulls).
+
 
 License 📝
 -------
