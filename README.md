@@ -6,7 +6,7 @@
 | Day | Topic | Description | Script | Tweet |
 | ----------- | -------- | ----------- | -------- | --------- |
 | 1 | Documentation | [How to use the PowerShell documentation](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.1) | x | [tweet](https://twitter.com/edoardottt2/status/1430935729346056197) |
-| 2 | Version | How to know which version of PowerShell is running? | `$PSVersionTable.PSVersion` (script) | [tweet](https://twitter.com/edoardottt2/status/1431254758170537985) |
+| 2 | Version | How to know which version of PowerShell is running? | `$PSVersionTable.PSVersion` ([script](https://github.com/edoardottt/powershell365/blob/main/scripts/day2.ps1)) | [tweet](https://twitter.com/edoardottt2/status/1431254758170537985) |
 
 Contributing 🛠
 -------
