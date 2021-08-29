@@ -14,7 +14,7 @@ Contributing 🛠
 -------
 
 Just open an [issue](https://github.com/edoardottt/powershell365/issues) / [pull request](https://github.com/edoardottt/powershell365/pulls).  
-Make sure to read the [Code of conduct](https://github.com/edoardottt/powershell365/blob/main/CODE_OF_CONDUCT.md).
+Make sure to read the [Code of conduct](https://github.com/edoardottt/powershell365/blob/main/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/edoardottt/powershell365/blob/main/CONTRIBUTING.md) files.
 
 License 📝
 -------
