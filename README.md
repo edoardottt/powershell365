@@ -9,6 +9,8 @@
 | 2 | Version | How to know which version of PowerShell is running? | `$PSVersionTable.PSVersion` ([script](https://github.com/edoardottt/powershell365/blob/main/scripts/day002)) | [tweet](https://twitter.com/edoardottt2/status/1431254758170537985) | [[1]](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.1) |
 | 3 | General | What is PowerShell? PS is a cross-platform... [continue here](https://github.com/edoardottt/powershell365/blob/main/descriptions/day003.md) | x | [tweet](https://twitter.com/edoardottt2/status/1431613332683960324) | [[1]](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) |
 | 4 | Command | What is a PowerShell command (cmdlet)? Commands for PowerShell... [continue here](https://github.com/edoardottt/powershell365/blob/main/descriptions/day004.md) | `Get-Command`([script](https://github.com/edoardottt/powershell365/tree/main/scripts/day004)) | [tweet](https://twitter.com/edoardottt2/status/1431914629500899330) | [[1]](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-command?view=powershell-7.1) |
+| 5 | Command | Cmdlets are named according to a ... [continue here](https://github.com/edoardottt/powershell365/blob/main/descriptions/day005.md) | `Get-Verb`([script](https://github.com/edoardottt/powershell365/tree/main/scripts/day005)) | [tweet](https://twitter.com/edoardottt2/status/1432331172613394434) | [[1]](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-verb?view=powershell-7.1)
+
 
 Contributing 🛠
 -------
