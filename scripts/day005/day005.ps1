@@ -1,7 +1,7 @@
 # Day 4 - PowerShell365
 # The Get-Verb cmdlet included in PowerShell 
 # is used to see the list of approved verbs.
-# https://github.com/edoardottt/powershell365ù
+# https://github.com/edoardottt/powershell365
 
 
 # Get a list of all verbs
