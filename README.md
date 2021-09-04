@@ -13,6 +13,8 @@
 | 6 | Command | Use the `Get-Help` core cmdlet to ... [continue here](https://github.com/edoardottt/powershell365/blob/main/descriptions/day006.md) | `Get-Help` or `help` ([script](https://github.com/edoardottt/powershell365/tree/main/scripts/day006)) | [tweet](https://twitter.com/edoardottt2/status/1432706641145761809) | [[1]](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-help?view=powershell-7.1)
 | 7 | Command | The `Update-Help` cmdlet downloads the ... [continue here](https://github.com/edoardottt/powershell365/blob/main/descriptions/day007.md) | `Update-Help`([script](https://github.com/edoardottt/powershell365/tree/main/scripts/day007)) | [tweet](https://twitter.com/edoardottt2/status/1433098145131597829) | [[1]](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/update-help?view=powershell-7.1)
 | 8 | Documentation | When you invoke `Get-Help` on a cmdlet, a help ... [continue here](https://github.com/edoardottt/powershell365/blob/main/descriptions/day008.md) | x | [tweet](https://twitter.com/edoardottt2/status/1433812339921494017) | [[1]](https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/02-help-system?view=powershell-7.1)
+| 9 | Execution Policy | An execution policy is part of the PowerShell ... [continue here](https://github.com/edoardottt/powershell365/blob/main/descriptions/day009.md) | link-script | link-tweet | [[1]](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1) [[2]](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/get-executionpolicy?view=powershell-7.1)
+
 
 Contributing 🛠
 -------
