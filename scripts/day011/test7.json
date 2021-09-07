@@ -1,0 +1,23 @@
+{
+    "powershell": {
+        "command": "get-help"
+    },
+    "powershell2": {
+        "command": "get-help"
+    },
+    "powershell3": {
+        "command": "get-help"
+    },
+    "powershell4": {
+        "command": "get-help"
+    },
+    "powershell5": {
+        "command": "get-help"
+    },
+    "powershell6": {
+        "command": "get-help"
+    },
+    "powershell7": {
+        "command": "get-help"
+    }
+}

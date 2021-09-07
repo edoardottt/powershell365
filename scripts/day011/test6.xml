@@ -1,0 +1,5 @@
+<powershell>
+    <command>
+        get-help
+    </command>
+</powershell>
