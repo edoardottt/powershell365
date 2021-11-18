@@ -1,4 +1,7 @@
 # powershell365
+
+PAUSED PROJECT
+
 365 (one per day) tips to learn Powershell [#365daysofpowershell](https://twitter.com/search?q=365daysofpowershell) [#powershell365](https://twitter.com/search?q=powershell365)
 
 ![ps-version](https://github.com/edoardottt/images/blob/main/powershell365/ps-version.svg)
