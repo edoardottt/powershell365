@@ -1,6 +1,6 @@
 # powershell365
 
-PAUSED PROJECT
+**PAUSED PROJECT**
 
 365 (one per day) tips to learn Powershell [#365daysofpowershell](https://twitter.com/search?q=365daysofpowershell) [#powershell365](https://twitter.com/search?q=powershell365)
 
